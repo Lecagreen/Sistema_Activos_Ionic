@@ -1,0 +1,7 @@
+{
+  "name": "ControlApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
